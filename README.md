@@ -1,6 +1,6 @@
 # Hi there, I'm David Bernadi! 👋
 
-I'm an experienced Software Engineer and front-end enthusiast passionate about turning ideas into reality by building scalable and user-friendly web applications. 
+I'm an experienced Software Engineer and frontend enthusiast passionate about turning ideas into reality by building scalable and user-friendly web applications. 
 
 ---
 
@@ -19,4 +19,4 @@ So, if you look at my current year contributions on GitHub, you might only see a
 
 ---
 
-Visit [davwebdev.com](https://davwebdev.com) for more 😊
+## Visit [davwebdev.com](https://davwebdev.com) for more 😊
